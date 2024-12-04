@@ -1,5 +1,6 @@
 import pygame
 import serial
+import time
 
 def detectar_movimiento_control():
     # Inicializar pygame
